@@ -3,7 +3,7 @@ from PyPDF2 import PdfReader
 from dotenv import load_dotenv
 from langchain.text_splitter import CharacterTextSplitter
 from langchain.embeddings import OpenAIEmbeddings
-from langchain.vectorstores import FAISS, Pinecone
+from langchain.vectorstores import Pinecone
 from langchain.memory import ConversationBufferMemory
 from langchain.chains import ConversationalRetrievalChain
 from langchain.chat_models import ChatOpenAI
@@ -14,6 +14,8 @@ import os
 load_dotenv()
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
+PINECONE_API_ENV = os.getenv("PINECONE_API_ENV")
 
 
 def get_pdf_text(pdf_docs):
@@ -46,7 +48,12 @@ def get_conversation_chain(vectorstore):
 # using OpenAI embeddings and then storing using FAISS(could be swapped for pinecone)
 def get_vectorstore(text_chunks):
     embeddings = OpenAIEmbeddings(openai_api_key=OPENAI_API_KEY)
-    vectorstore = FAISS.from_texts(texts=text_chunks, embedding=embeddings)
+    index_name = "langchain1"
+
+    vectorstore = Pinecone.from_texts(
+        texts=text_chunks, embedding=embeddings, index_name=index_name
+    )
+
     return vectorstore
 
 
@@ -74,8 +81,8 @@ def handle_userinput(user_question):
 def main():
     load_dotenv()
     pinecone.init(
-        api_key="YOUR_PINECONE_API_KEY",  # find at app.pinecone.io
-        environment="YOUR_ENVIRONMENT_NAME",  # next to api key in console
+        api_key=PINECONE_API_KEY,  # find at app.pinecone.io
+        environment=PINECONE_API_ENV,  # next to api key in console
     )
     st.set_page_config(page_title="Chat with multiple PDFs", page_icon=":books:")
     # allows to use css from the imported template
