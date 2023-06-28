@@ -3,10 +3,11 @@ from PyPDF2 import PdfReader
 from dotenv import load_dotenv
 from langchain.text_splitter import CharacterTextSplitter
 from langchain.embeddings import OpenAIEmbeddings
-from langchain.vectorstores import FAISS
+from langchain.vectorstores import FAISS, Pinecone
 from langchain.memory import ConversationBufferMemory
 from langchain.chains import ConversationalRetrievalChain
 from langchain.chat_models import ChatOpenAI
+import pinecone
 from htmlTemplates import css, bot_template, user_template
 import os
 
@@ -72,6 +73,10 @@ def handle_userinput(user_question):
 
 def main():
     load_dotenv()
+    pinecone.init(
+        api_key="YOUR_PINECONE_API_KEY",  # find at app.pinecone.io
+        environment="YOUR_ENVIRONMENT_NAME",  # next to api key in console
+    )
     st.set_page_config(page_title="Chat with multiple PDFs", page_icon=":books:")
     # allows to use css from the imported template
     st.write(css, unsafe_allow_html=True)
