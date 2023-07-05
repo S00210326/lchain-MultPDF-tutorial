@@ -18,6 +18,18 @@ PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
 PINECONE_API_ENV = os.getenv("PINECONE_API_ENV")
 
 
+# def init_pinecone(api_key, env, index_name):
+#     pinecone.init(api_key=api_key, environment=env)
+#     pinecone.create_index(
+#         name=index_name,
+#         dimension=1536,  # dimensionality of dense model
+#         metric="cosine",  # sparse values supported only for dotproduct
+#         pod_type="s1",
+#         metadata_config={"indexed": []},  # see explanation above
+#     )
+#     return pinecone.Index(index_name)
+
+
 def get_pdf_text(pdf_docs):
     text = ""
     # goes through all pdfs and pages and gets all texts and returns
@@ -46,12 +58,17 @@ def get_conversation_chain(vectorstore):
 
 
 # using OpenAI embeddings and then storing using FAISS(could be swapped for pinecone)
-def get_vectorstore(text_chunks):
+def get_vectorstore(text_chunks, doc_id):
     embeddings = OpenAIEmbeddings(openai_api_key=OPENAI_API_KEY)
     index_name = "langchain1"
 
+    metadatas = [{"doc_id": doc_id} for _ in text_chunks]
+
     vectorstore = Pinecone.from_texts(
-        texts=text_chunks, embedding=embeddings, index_name=index_name
+        texts=text_chunks,
+        embedding=embeddings,
+        index_name=index_name,
+        metadatas=metadatas,
     )
 
     return vectorstore
@@ -64,16 +81,20 @@ def handle_userinput(user_question):
         st.session_state.chat_history = response["chat_history"]
 
         for i, message in enumerate(st.session_state.chat_history):
+            print(message)
             if i % 2 == 0:
                 st.write(
                     user_template.replace("{{MSG}}", message.content),
                     unsafe_allow_html=True,
                 )
+
             else:
                 st.write(
                     bot_template.replace("{{MSG}}", message.content),
                     unsafe_allow_html=True,
                 )
+                # Assuming metadata is present in each message
+
     else:
         st.write("Please process the PDFs first before asking a question.")
 
@@ -113,7 +134,7 @@ def main():
                 text_chunks = get_text_chunks(raw_text)
 
                 # create vector store with embeddings
-                vectorstore = get_vectorstore(text_chunks)
+                vectorstore = get_vectorstore(text_chunks, "TEST")
 
                 # create conversation chain
                 # this allows you to get history of conversation and returns you the next element
