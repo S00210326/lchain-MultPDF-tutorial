@@ -1,13 +1,22 @@
-import streamlit as st
-from PyPDF2 import PdfReader
+# import streamlit as st
 from dotenv import load_dotenv
+from PyPDF2 import PdfReader
+
+# from langchain.document_loaders import Docx2txtLoader
 from langchain.text_splitter import CharacterTextSplitter
-from langchain.embeddings import OpenAIEmbeddings
-from langchain.vectorstores import Pinecone
-from langchain.memory import ConversationBufferMemory
-from langchain.chains import ConversationalRetrievalChain
-from langchain.chat_models import ChatOpenAI
-import pinecone
+
+# from langchain.embeddings import OpenAIEmbeddings
+# from langchain.vectorstores import Pinecone
+# from langchain.memory import ConversationBufferMemory
+from langchain.indexes import GraphIndexCreator
+from langchain.llms import OpenAI
+from langchain.document_loaders import TextLoader, Docx2txtLoader
+import networkx as nx
+import matplotlib.pyplot as plt
+
+# from langchain.chains import ConversationalRetrievalChain, GraphQAChain
+# from langchain.chat_models import ChatOpenAI
+# import pinecone
 from htmlTemplates import css, bot_template, user_template
 import os
 
@@ -17,109 +26,61 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
 PINECONE_API_ENV = os.getenv("PINECONE_API_ENV")
 
-
-def get_pdf_text(pdf_docs):
-    text = ""
-    # goes through all pdfs and pages and gets all texts and returns
-    for pdf in pdf_docs:
-        pdf_reader = PdfReader(pdf)
-        for page in pdf_reader.pages:
-            text += page.extract_text()
-    return text
+# def get_pdf_text(pdf_doc):
+#     text = ""
+#     # Reads all pages of the PDF and gets all text
+#     pdf_reader = PdfReader(pdf_doc)
+#     for page in pdf_reader.pages:
+#         text += page.extract_text()
+#     return text
 
 
-def get_text_chunks(text):
-    text_spliter = CharacterTextSplitter(
-        separator="\n", chunk_size=1000, chunk_overlap=200, length_function=len
-    )
-    chunks = text_spliter.split_text(text)
-    return chunks
+# def get_text_chunks(text):
+#     text_spliter = CharacterTextSplitter(
+#         separator="\n", chunk_size=1000, chunk_overlap=200, length_function=len
+#     )
+#     chunks = text_spliter.split_text(text)
+#     return chunks
 
 
-def get_conversation_chain(vectorstore):
-    llm = ChatOpenAI()
-    memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True)
-    conversation_chain = ConversationalRetrievalChain.from_llm(
-        llm=llm, retriever=vectorstore.as_retriever(), memory=memory
-    )
-    return conversation_chain
+# pdf_text = get_pdf_text("ALAllints2.pdf")
+
+# # text = get_text_chunks(pdf_text)
+
+# index_creator = GraphIndexCreator(llm=OpenAI(temperature=0))
+# graph = index_creator.from_text(pdf_text)
+# graph.get_triples()
 
 
-# using OpenAI embeddings and then storing using FAISS(could be swapped for pinecone)
-def get_vectorstore(text_chunks):
-    embeddings = OpenAIEmbeddings(openai_api_key=OPENAI_API_KEY)
-    index_name = "langchain1"
+index_creator = GraphIndexCreator(llm=OpenAI(temperature=0))
 
-    vectorstore = Pinecone.from_texts(
-        texts=text_chunks, embedding=embeddings, index_name=index_name
-    )
+document_loader = Docx2txtLoader(document_path="ALAllints2.docx")
 
-    return vectorstore
+document = document_loader.load_document()
+index_creator.add_document(document)
 
+graph = index_creator.graph
 
-# when user submits a question
-def handle_userinput(user_question):
-    if st.session_state.conversation is not None:  # Add this check
-        response = st.session_state.conversation({"question": user_question})
-        st.session_state.chat_history = response["chat_history"]
-
-        for i, message in enumerate(st.session_state.chat_history):
-            if i % 2 == 0:
-                st.write(
-                    user_template.replace("{{MSG}}", message.content),
-                    unsafe_allow_html=True,
-                )
-            else:
-                st.write(
-                    bot_template.replace("{{MSG}}", message.content),
-                    unsafe_allow_html=True,
-                )
-    else:
-        st.write("Please process the PDFs first before asking a question.")
+graph.get_triples()
 
 
-def main():
-    load_dotenv()
-    pinecone.init(
-        api_key=PINECONE_API_KEY,  # find at app.pinecone.io
-        environment=PINECONE_API_ENV,  # next to api key in console
-    )
-    st.set_page_config(page_title="Chat with multiple PDFs", page_icon=":books:")
-    # allows to use css from the imported template
-    st.write(css, unsafe_allow_html=True)
+# Create graph
+G = nx.DiGraph()
+G.add_edges_from(
+    (source, target, {"relation": relation})
+    for source, relation, target in graph.get_triples()
+)
 
-    if "conversation" not in st.session_state:
-        st.session_state.conversation = None
-    if "chat_history" not in st.session_state:
-        st.session_state.chat_history = None
+# Plot the graph
+plt.figure(figsize=(8, 5), dpi=300)
+pos = nx.spring_layout(G, k=3, seed=0)
 
-    st.header("Chat with multiple PDFs :books:")
-    user_question = st.text_input("Ask a question about your docs: ")
-    if user_question:
-        handle_userinput(user_question)
-    # replacing personalized template, loading straight html code
+nx.draw_networkx_nodes(G, pos, node_size=2000)
+nx.draw_networkx_edges(G, pos, edge_color="gray")
+nx.draw_networkx_labels(G, pos, font_size=12)
+edge_labels = nx.get_edge_attributes(G, "relation")
+nx.draw_networkx_edge_labels(G, pos, edge_labels=edge_labels, font_size=10)
 
-    with st.sidebar:
-        st.subheader("Your Documents")
-        pdf_docs = st.file_uploader(
-            "Upload your PDFs here and Click on 'Process'", accept_multiple_files=True
-        )
-        if st.button("Process"):
-            with st.spinner("Processing"):
-                # get pdf text
-                raw_text = get_pdf_text(pdf_docs)
-
-                # get text chunks
-                text_chunks = get_text_chunks(raw_text)
-
-                # create vector store with embeddings
-                vectorstore = get_vectorstore(text_chunks)
-
-                # create conversation chain
-                # this allows you to get history of conversation and returns you the next element
-                # Needs to be persistant(Especially for using STREAMLIT where it re-initialises alot)
-                st.session_state.conversation = get_conversation_chain(vectorstore)
-
-
-if __name__ == "__main__":
-    main()
+# Display the plot
+plt.axis("off")
+plt.show()
