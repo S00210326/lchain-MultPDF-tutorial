@@ -1,0 +1,537 @@
+
+
+Interview with CHRIS STOKES (Executive Director, Railway Development)
+
+Shadow Strategic Rail Authority (Summer - 2000).
+
+Present � RV and IM
+
+
+Relationship between Virgin and ALSTOM started with the transfer of the maintenance of the existing kit.
+
+The notion that don�t just want to buy the kit but something quite intangible to the kit which the ultimate consumer wishes to buy is central to the auto industry.  What is the locus of SRA in the environment affecting these contracts.
+
+The privatisation of the rail industry was much more successful than expected.  Presumption was of steady state in volumes but  there is a structural change in the market.  The econometric models for rail travel had been a positive relationship with \GDP and a negative relationship with time trend.  The hypothesis was that increasing car ownership in a steady state market would eat into the volume of train travel  We now know that the negative time trend does not exist and that there is sustained growth.  Passengers on inter city routes and London commuters are ABCs who already have access to cars.  Rail travel is a choice not a distressed purchase and the road network is getting worse and more congested.
+
+David Humphrey arrives.
+
+Structural change in the market coincided with privatisation   Business dynamics are different it is enormously important for the rail franchises to grow their income whereas for BR it was the cash limit which was important.  Telephone inquiry centres under BR were a cost centre so to shave costs you closed a few phone lines.  Now they are not only a regulated activity but a major generator of growth so response time is improved and the access to information through that and the Railtrack web site is going through the roof.
+
+TOCs can not control their rolling stock or rail access charges significantly and so they must raise their income.  The joint impact of the structural market effect and the new business dynamic have given sustained growth as against continuous decline.  Privatisation wasn�t carried out on the basis, Treasury wouldn�t have permitted it.
+
+There is also a degree of plurality that wasn�t there under BR, franchise bidders are looking for their USP. The Virgin ALSTOM deal grows out of this environment.   Private sector operators want their suppliers to give them very complex packages and SRA is trying to deliver more of that through the re-franchising process.  SRA is involved inter alia in two major projects, the upgrading of passenger services on the East Coast mainline and our themselves procuring �1.5 billion of new rolling stock tranches of which will be peeled off and novated as the franchises are replaced.  This is to prevent SRA being held to ransom during the franchise replacement process by prospective franchisees.  (�Agree the deal on our terms or we won�t do anything about the Mk I rolling stock�).  Have to be seen to be prepared to do it.  All of the rolling stock contracts since privatisation have direct agreements attached with a call option on the price for three years to protect their public duty in the event of default by a franchise.  SRA has a statutory duty to keep the trains running.  SRA sees every deal and as a result the best view of the market for rolling stock.  
+
+In their procurement of the MK I replacement SRA are not adopting a detailed specification but a functional specification.  Light procurement - description of options they want suppliers to price.  SRA does not want to be the ultimate operator and therefore seek priced options for what the ultimate operator might require.  How an operator decides on 2+2 or 2+3 seating or first class options or the number of vehicles to meet the required service is up to them.  
+
+A GNER or a Virgin may have their own view of how customers might relate to fit out and SRA is trying to step right back from that.  The specification therefore concentrates on the engineering design of the vehicles rather than the livery and the artistic impression of the train.  Virgin and GNER will assign the same importance to retail and catering but their design approach will be very different.  ROSCOs also have a view because they may have to re-lease the train at the end of a franchise and don�t want to see the cost of refurbishment so high that its cheaper to build a new train.  STRA now sees the market moving in the direction described in the paper.  Now see manufacturers moving in the direction of �whole life cost�  building on a series of standard platforms with standard traction packages, partly to avoid the problems experienced in achieving the safety case.  (BR would have treated itself to a new design of train.)  Manufacturers are increasingly focused on making their money through maintenance rather than construction.  Making a virtue out of what the market is forcing them to do. 
+
+How does the issue of the demand for an improving passenger experience become articulated in a way that the  manufacturer can understand?  Virgin will have a pretty specific statement of the passenger interface - they are not going to let ALSTOM do the internal design.  The manufacturers will therefore, as in the aerospace industry, provide a shell which can be fitted out to suit the requirements of the customer.  This has even been seen in refurbishment.  When the Circle Line trains were refurbished passengers thought they were new trains.  The MK III coaches have been refurbished very successfully and interestingly is a better coach for operators, and pasengers, than the Mk IV coaches.  BR treated themselves to a new design of coach but came up with one that was less good for the passenger than the Mk III.  
+
+Following the one-off experience of the SRA procurement exercise of the Mk I replacements  SRA will be watching the TOCs procure.  Residual value will be a matter for the ROSCOs.  SRA will not take the risk back.  Following privatisation one of the ROSCOs wanted a very cheap safety lead modification for a fleet but said they would only do it if they had whole life underwriting.  SRA said no.  From that SRA have gone on refusing to take risk.  Now have a position where on the WC train deal (where in confidence Virgin thought they had them in a corner) SRA refuses to budge.  The lessors of the rolling stock backed up by manufacturers standard products have formed a robust view of residual value which has lead to a situation where rolling stock is moving around the system.  TOCs can get as short as a three year lease at relatively competitive rates which have reduced significantly.  SRA has never lost its nerve.  On the issue of a high degree of risk transfer.
+
+If the bidders for South West or South Central do not want to go down the SRA route of Mk I replacement procurement they have to prove that they can offer better value for money.  SRA is in fact encouraging standard products indirectly through the need of ROSCOs to protect residual value refresh the trains and present them as new in the case of short leases.  Trains have to last a long time.  Taking a broad definition of ROSCOs they have financed all new rolling stock procurement to date keeping the financing off balance sheet.  Manufacturers periodically think about whether they want to go down the route of financing whole train procurement (as per GE Capital who are entering the market).  This may be the way in which the market develops - they would however, carry the residual risk.   Bombardier Capital is as big a company as Bombardier Transportation.  If you are the size of for example ALSTOM worldwide then they have the balance sheet capacity though they may not be able to meet the financing capabilities of a bank. The financing would have to be done arms length because SRA will still not be held to ransom.  The one development not seen yet, but its only been four years since privatisation, is the development of a spot market in rolling stock as there is for aircraft though its a different market.  
+
+The three year call option allows SRA the achieve a period of grace with a new franchisee allowing them either to reach a market price with the ROSCO or to provide new rolling stock.  SRA also achieved this call option on the old BR stock.
+
+Having established the playing field SRA is rather neutral in regulating rolling stock market  except don�t like anything other than flat rental profiles ie it doesn�t like back loaded lease deals.
+
+GAP
+
+Generally speaking SRA does not interfere in the market.  Some franchises did their own maintenance some didn�t.  Don�t intend to buck the market.  SRA does loosely satisfy themselves that the maintenance is carried out satisfactorily via penalties if the trains don�t run or through safety regulation.  If the TOC transfers the maintenance to a third party then again SRA will have the ability to call that contract if the TOC goes bump.  If whatever reason the TOC goes under then SRA must be able to run the trains and so identifies �Key� contracts - including agreements with Railtrack.  When MTL (Northern Spirit) looked shaky SRA got themselves ready to run them.  Arriva took the company on including running the franchise on the current franchise profile for a year as a condition of the franchise.  
+
+SRA does not have a strategic remit for innovation or technology in the railway.  There is a high level statement - looking for a better, growing railway carrying more passengers and freight.  Franchise replacement is not best price but best value of output plus price.  The best results come from competition within franchises through meeting customer demand, for the franchises and as a last resort achieving a series of outputs through prescription by SRA in the contract.  SRA does not run the trains clean or dirty, late or punctual.  They do not drive the technology but the plurality of ideas.  Not going for East Coast upgrade on the basis of a high speed line.  GNER bid a respectable step upgrade and Virgin felt they could take it further.  The competition is being used to raise aspirations and this is proving very successful.
+
+Signaling technology is one example of where the development of technology from around the world is available to the UK.  The West Coast upgrade has been a disaster and signaling especially.  Railtrack wanted to put cutting edge technology on a complex mainline - it worked on the Jubilee line - but didn�t work on WCML.  SRA will not dictate to Railtrack but will discuss with them  the idea that they stop covering themselves in the Union Jack but will buy the best from Europe.  In terms of regulation outputs are heavily regulated (step change in quality and performance and resilience of timetable) but not mandated.  Operating outputs summary are in the public domain.  SRA focusses on outputs and seek to lead the industry through that focus.  Glass ceiling on rail performance suggested by TOCs is on a different planet than Japan.
+
+SSRA is a combination of the statutory powers of the old BR Board and the statutory powers of the Franchising Director under the 1993 Railways Act.  Must remember under whose powers they are operating.  OPRAF was a non ministerial appointment.  SRA will be a NDPB- non departmental public body.  A Quango.  Theoretically separate from governement but not.  Transport Bill sets out the duties of the SRA.  Employees will not be civil servants.  SRA will have a Board.  Non executives on the BRB will transfer to the SRA Board of 17(?).  The Rail Regulator will not be a part of SRA but its consumer protection functions will transfer. 
+
+This is not different from Teesside case where the company acts within a framework set by a regulator.  In this case ALSTOM is acting commercially but behind Virgin is a Government agency setting the framework.  The procurement team at Virgin did have a very strategic view for a train service provision contract.  Interested to know if they would do it again.  Virgin�s view is that a TOC is not in the business of maintaining trains but they have come to the view since, that it is nearly as hard work managing the contract and the contractor who is providing the maintenance as maintaining the trains themselves.  There are parallels with OPRAF pre and post privatisation with Virgin moving maintenance out to Bombardier and ATSOM.  OPRAF thought that they would be able to halve their employment but actually saw an increase.  The big permanent job of OPRAF is managing the contracts.
+
+In the case of strategic procurement doesn�t finish with procurement.  There are different forms of contract out there from no train no pay to full provision and the jury is out  to see how the process will involve.  Its not a single structural solution which will win but the relationships between the teams.  WCML now have a project manager who is absolutely focused and is taking a grip of the project which is now happening.  The man may be more important than the structure in this area.
+
+The risk issue is a factor in the other cases the way in which the location of risk is changing together with the contract management issue - what is the core?  Is corism a fad?  It used to be conglomerates!  Contract management may become more trouble than its worth.  How far can it be pushed before the costs outway the benefits.  
+
+One of the TOCs is proposing to take maintenance back in house.  WCML, Virgin taking an agressive stance on revenue growth but Railtrack isn�t delivering (note before Railtrack admitted they can�t deliver PUG2.)  There are bound to be some renegotiations down the line in big contracts like this.  But, Virgin are not masters of their own house because Virgin owe a premium line to SRA and so SRA may not be happy about the renegotiation.  SRA also concerned about intervening in a situation where they may be considered shadow directors.  Because there is a payment to HMG at the end of this it is more complex than a market situation.  SRA are then in the loop - will Virgin make their contract with HMG.  HMG doesn�t need to step in to support the mobile phone market!
+
+
+
+Virgin will carry the risks in the Safety Case for the  new WCML trains.  A particular area of attention is the fact that passengers will be carried at >100 mph in the leading vehicle although the kitchen will be forward of this compartment.  Impact testing has been undertaken.  Another issue is the means of escape.  The train control system and date recorders will not be a problem on the new trains as wiring provision is being made now.  i.e. Virgin Trains as a complete system integration is assisted by the total procurement process involving both the manufacturer and the finance house.  Note that WCTC bears the cost of any changes in the legal requirements surrounding safety until September 2001.  There are some �get outs� in the franchise agreement. 
+
+The sources of complexity arise from interaction between:
+
+* financial engineering
+* OPRAF
+* Railtrack
+* TOCs
+* Safety authorities
+
+
+Tony Collins� Team consists of:
+
+* accountants - business analysts and financial engineers
+* project managers from civil engineering and train builders
+* lawyer
+* electrical and mechanical engineers
+* project planners
+* administrative staff
+
+e.g.  come from train makers, civils, permanent way, project managers from the Northern Line project, rail oriented legals - no exclusion of non railway people.
+
+There are links with both Great Western Trains and the Institute of Project Management to share experience and Tony spends time in the City talking to his contacts and has brought in people from other industries.  The size of  these projects can be gauged from the spectrum with Eurofighter costing �35 billion.  The next clutch of about 20 projects, of which WCML is one, at �6-7 billion.  Cross Country is �1.3 billion.  There is nothing particularly to learn from European contracts, the framework in the UK is definitely private industry.
+	
+Angel is financing the trains through a bond issue so sought �AA� credit rating for Virgin and ALSTOM.  They achieved a mixture of  AA and A.  The package is not unique but asset financing is not the same as project financing.  The asset performance risk goes back to the manufacturer so re-leasing and underlying franchise drives WCML project.  Looking  through Virgin to 2012 what to do with 53 trains if there are no takers - could someone else come up with alternative trains to displace the fleet - that is the real risk.  However, the WCML is pretty unique so difficult to slot a new fleet in.
+
+Much also depends on the competence of SSRA, which is the mouthpiece of DETR and set the rules and context, who really need train operators, manufacturers and financial engineers on their staff.
+
+
+
+Interview with Martyn Vaughan ALSTOM
+
+03 July 2001
+
+Roger Vaughan
+
+Martyn joined ALSTOM two and a half years ago.  Career started with the manufacture of diesel engines with Perkins then making tractors with CASE, New Holland, and then Bostrom a seat supplier to the agricultural and construction industries.  Headhunted specifically to bring know-how of other manufacturing and industries to Washwood Heath.  Since privatisation there has been an interesting challenge for the railway industry.
+
+Until recently there has been little flow of expertise across the Channel, because ALSTOM was organised on a geographic basis so the plants in the UK, France, Spain and Germany were stand alone � all doing their own thing.  His might have been fine but looking forward it was seen that they were doing everything six times.  No standard components or standard systems (e.g. air conditioning) as a result the trains that came out were unreliable one-offs.  Six months ago the organisation was changed and now there are European product units. For example there is now a head of EMUs who will trade to maximise the revenue from EMUs and will swap ideas around the plants.  Similarly there are DMU and High Speed Train Groups the latter including the TGV and Pendolino.  Ultimately, there will be a Tilting Train product group when the Fiat acquisition is integrated.
+
+This has already shown advantages.  The Pendolino was put into the High-Speed product group six months ago and now uses the TGV floor instead of the Italian Pendolino floor which didn�t meet the noise specification at 140mph.  (This was just caught in time.  The body shell complete with floor comes from Italy but for expediency the new floor was fitted in Birmingham.)  Without this reorganisation this would have taken much longer to achieve.  This has been quite a change for ALSTOM � ADTRANZ did it two or three years ago.
+
+The Virgin approach to specification of service levels or outputs based on the Red Book differs from other customers who either specified �inputs� (Corradia) or weren�t sure about what they wanted at all (Porterbrook/SWT). The SWT trains were initially ordered by Porterbrook and then passed on to SWT - hence the lack of clarity on the specification.  ALSTOM has had the whole raft of possibilities.  Last Friday we produced the first example of the interior following the Red Book using production components.  All the Virgin comments (109) are input related!  The acid test will be when the train is presented for acceptance. In the case of SWT acceptance was affected by their not knowing what they wanted.  Everyone knows the problems of getting trains accepted.  Even the Voyager had ten pages of �defects�.  
+
+Virgin and Angel wanted to learn from the lessons of Juniper etc.  In order to be more practical they have introduced the notion of the QTOC � Qualified Take-Over Certificate � as opposed to a TOC.  Taking Corradia as an example with Angel title passes when there is a TOC a formal point in  time, it is difficult to get the train through the TOC because after that ALSTOM could say �its your problem�.  Lots of time and money was wasted going round the acceptance loop.  The train may be clearly acceptable for passenger service but ALSTOM weren�t getting paid.  The industry tied itself in a knot searching for the unattainable.  Virgin have a QTOC for each train set that means that the train can go into service with work outstanding and then the TOC can be achieved later.  This is separate from the VAB certificate or Engineering Acceptance Certificate and is about meeting the customer�s specification � showing that the toilets work for example.  Achieving noise levels, speed, acceleration and braking would be handled through type testing.
+
+The only place where 140mph running can be type tested is on the ECML.  The idea is to go into service with the QTOC at 110 mph and then the TOC will come after the type test.  Even the QTOC can be on a phased basis.  The assembly line is based on 9 stages of work so there can be 9 stages of QTOC, so it�s like continuous assessment rather than sitting a final exam.  In the case of Corradia we didn�t know the questions!  This is one of the major lessons learnt.  Martyn discussed the situation with Haydn Abbot of Angel six months ago.  They had bought Turbostars some years ago � they were the first post privatisation trains and were accepted very much in the way of the old BR days. There were pages and pages of modifications needed so Angel decided not to repeat the experience but as a result the pendulum swung too far the other way in pursuit of perfection.  The QTOC represents a middle way that avoids accepting rubbish but also avoids the search for perfection.  ALSTOM is still in this process of course.
+
+As far as manufacturing strategy is concerned we now have an assembly line � it isn�t continuously moving but it moves once a week now - and will move twice a week.  There are currently four lines.  There is a view in the industry that there is too much auto technology coming in and that you can never make a train that way.  The principles of TACT time, keeping things moving, pre-kiting and lean manufacture or leaner manufacture is valid for building trains.  Cycle times may be longer � days rather than minutes.  In the beginning auto technology was perhaps rammed down peoples� throats and pushed as the answer to everything - which of course its not. But Martyn does now hear his managers talking about TACT time and keeping the line moving.  Everything that is static attracts cost.  There was no pace or heartbeat in the factory.  They have spent �10million on the changes to the plant and even guys on the line think about how long they have to do a job and staged sign off rather than saving all the problems to the end.  The principles are beginning to sink in.
+
+There has been a lot of training of team leaders.  The biggest challenge in the industry is over turning the expectation of failure, of late supply, of designs not working first time.  There is an expectation from top to bottom that things won�t work first time, that the train won�t work out of the box and that that�s the way it is and that you can�t do anything about it.  The expectation was that post- privatisation everything would suddenly change.  Martyn looked at Washwood Heath carefully � all manufacturers were build-to-print, if it was unreliable or didn�t work first time that wasn�t your problem.  They didn�t design a train pre privatisation.  They had to move from being a sub contractor to owning the design and being responsible for maintenance, which meant a concentration on life cycle costing.  Now we own the trains on LUL Northern Line!  
+
+Moving from being a sub contractor where the old BR inspector made sure you did everything right to a brave new world of having to do everything means a huge change.  The expectation post privatisation was unreal. Nothing had fundamentally changed in ALSTOM or for that matter ADTRANZ (not to mention Railtrack!).  If we had really understood what had to happen in the famous three years of no orders you would have re-engineered the company to taking account of �owning� the trains needing different processes, procedures and people.  Nobody really got themselves geared up as a world class train designer, builder and maintainer.
+
+When we were a sub contractor we bought the cheapest components we could �we didn�t have a maintainability objective.  Now you have the classic case of choosing between components with different first costs and with different reliabilities and costs of maintenance.  We now have to choose the lowest lifecycle cost even if the first cost is higher because you know you have to live with it.  This has been a significant change on WCML. Our maintenance contract is bigger than the contract to supply the trains.  There is a difficulty in maintenance engineers articulating requirements.  We have had a team of ten maintenance engineers in the design studio, from day one.  You would have thought that if they had done their job properly their input to the design would mean that they wouldn�t complain about how difficult the train is to maintain but that�s exactly what they did on the �glass case train� on Friday!  Martyn said �look you guys don�t come now and say that panels difficult to get off or that micro switch is difficult to get at.  That�s exactly why you were there!�  They have made steps forward but haven�t made it into the perfect maintenance world.  
+
+Most of us are in the same boat.  Siemens is interesting � the blue eyed boys at the moment but the train they are selling is a paper train � they haven�t produced it yet.  The contracts they have are design and make but there is a perception in the UK that Siemens have better processes and procedures.  ALSTOM and ADTRANZ have come through all the problems as the bad boys � all the trains are late.  Siemens have said �we are the new kids on the block� and everyone has rushed over following the ball and said we�ll buy trains off you.  But there are no trains yet.  The jury is out - Siemens have promised all the things we have had problems with and if they really have got better procedures and engineering management processes it will show.  Its early days but they have a healthy order book.
+
+The Japanese have dipped a toe.  They achieve very high levels of reliability but very high levels of redundancy in the design.  The Shinkansen is a very reliable train but it has a huge number sitting in the sidings waiting for problems � as has the TGV.  We operate much more leanly we don�t routinely duplicate or triplicate systems or have a lot of spare trains.  The big change we will see is the move from locomotive hauled to multiple drive trains � there are 14 drives on the Pendolino it will achieve full speed with 9 so there�s some redundancy.  If a loco goes you are dead so we do have spare locos up and down the WCML.  We have tried to design so that there won�t be catastrophic failure.  The multiple unit will be the best contribution to overall reliability.
+
+We have had unexpected problems on the Corradia with equipment that has its own protective system.  For example on very hot days if the battery charger over heats it shuts the whole train down.  That is stupid.  This is a system integration problem.  Individual systems stand-alone well but the integration of all the protection systems can be a difficult design problem.  We need to model more with less trial and error.  It comes down to shortened lead-time.  There is also a problem in finding good engineers who understand systems engineering.
+
+There are a certain number of people around the industry, they are known by name and they are poached.  There is a worrying trend for us as manufacturers that the AEAs or WS Akins of this world looking for staff will pay over the odds.  We lost our best braking engineer recently � he was phoned with an offer that �whatever they are paying you we will double�.  Then they charge them back at three times.  It is also an issue for younger engineers who may not gain experience first.  It is an issue for ALSTOM across Europe, we can�t find engineers.  We have a real shortage of engineers.
+
+25% of my engineers are contractors, it�s too many.  Historically we had a workload that went up and down for years and years.  We used to recruit people then lay them off and so on.  They set themselves up a s contractors so they could even out their own workload.  We are now trying to convert contractors to full-time employees, but when he can go to AEA and get �70k for the �35k job he does for us and it is exactly the same job and we have then to buy him back, its difficult.  There is a general problem in the UK.  You need good engineers for the product to sell itself but we are not there yet.  I�m sure if you looked at the AEA business plan � they want to be the technical experts.  You can see why they are doing it but it is worrying for us.
+
+The Zone system in ALSTOM originated from a visit to the states to look at a bus company.  My experience is that it hasn�t been 100% successful.  The position of the zone manager has been very difficult to fill.  Not only has the zone to work, it has to meet all the objectives of cost and reliability.  What we have had is a lot of sub optimisation from the zones and the zone managers are in effect project managers so getting the right level of person has been difficult.  Putting the chief engineer type person in has not worked.  When Martyn ran Bostrom he had a group of small companies �2-3million turnover and he could not recruit general managers and it�s the same problem � we don�t train for these roles in the UK we make them engineers or accountants but we don�t give them the all round experience.  We wanted rounded off people for zone managers and couldn�t find them.  The zones ended up being engineering biased or sourcing biased depending on the bent of the manager.
+
+We didn�t integrate the zones properly where they touched each other.  We did learn from the French who have a position known as �ensemblier� his role is like the glue that binds all the zones together and makes sure that the whole train works.  We didn�t do that at the beginning � we do now.  Our experience with zones has been mixed.  We would do it again but differently.  We will measure its success by the number of design changes.  At this stage in the game we have many fewer design changes (50% less) but we don�t yet know where we will end up � perhaps 30-40% less which would be a vindication of the zone/studio system.
+
+Successes on the programme are that we are actually on time � complicated by contractual variations but we are actually doing what we said we would do.  We have two pre series trains built and being tested at the new test facility and they are running pretty well.  In theory most of the big bits are proven technology but we are impressed by the way the whole train is running.  We did 125mph yesterday with tilt � quite a milestone - a first in the UK.  We built the test track!  You do need somewhere to test these trains without going near Railtrack.  Building Old Dalby has been a nightmare of planning permissions yet we have rebuilt and electrified a railway within twelve months of getting going.  The trainbuilder built it but it is owned by WCTC who run it and have the safety case for it, we rent it by the hour.  We have very good relationships with WCTC.  When I arrived it was like two separate companies, I tried to put politics on one side I like to get things done and so does Ron Temple.  We have learned the lessons of  �I build them � somebody else commissions them�.  We changed the organisation at the beginning of the year so we commission the trains.  It used to be like two different companies but not anymore.  Because Ron will be the ultimate operator he presents the trains to Virgin/Angel � I sell them to Ron.  We won�t replicate what we had with First Group and Corradia.  We have all learned a lot about maintaining trains.  In the case of Northern Line we have over 45000 km between failure � unheard of on trains especially for that train duty.  We have done it the hard way through trial and error but we have got there.
+
+Project integration?  It is symptomatic of the way this industry is structured, you�re right.  A good example on safety cases is the TASS system (tilt authorisation and speed supervision system) which covers everybody Virgin, us as ATL, power and signals, heavily involves Railtrack because of bits of kit on their infrastructure, HMRI, HSE, Angel � everybody and yet nobody is responsible for getting everything together.  Everyone has a bit of it but nobody has it all,  there is no systems authority.  Chris Green chairs meetings, everybody round the table has a piece of it but nobody owns it all.  In meetings with Railtrack to talk about gauging, to discuss mutual benefits, everybody knows the contract is lurking which hampers progress somewhat.  Voltage resonance is another issue � all the predictions say that these trains will suffer from voltage resonance.  Railtrack�s current plan is to suck it and see.  Railtrack have just announced that they will not install 50kv auto transformers.  The customer won�t see where the problem is.
+
+Re-nationalisation won�t work but neither will the present set of untenable factions.  The answer is somewhere between the two but I�m not sure where.  We all resort to lawyers now!
+
+TASS is a good example. HMRI or HSE will not provide or approve a specification.  You never quite know where you are.  We don�t have approval to take the train to test site A, Carlisle, where we can travel at 110mph without tilt but we have already done 125mph with tilt!  The French think we are crazy � they can�t conceive of what we have to go through.  We could have decided that Old Dalby was our railway so we could do what we like but since we wanted it to be like the railway we decided to go through the safety case process.  In the UK we do brake tests at 10mph intervals but the French can�t understand why we don�t just put our foot down and test at high speed.
+
+This train has all sorts of nasties � tilt at 140mph, passengers in the leading car, the train management system and so it is more complicated to get through the approvals but we are getting there.
+
+I think a UK based rail industry will survive � I have organised myself out of a job.  We will be part of the European industry � we have a very poor supply base in the UK.  We will see a more standardised product in the UK.  Every train in ALSTOM plants throughout Europe has a different HVAC system.  We will see one world class supplier, likewise doors and brakes � good volume good R&D.
+
+ALSTOM would be interested in collaborating further with Newcastle on the project integration front.  I will talk to Roger MacDonald rather than Mike Lloyd.
+
+10 Oct 2001
+
+
+Interview with Paul Green (Sourcing Director) at ALSTOM, Birmingham, 21st of October, 1999
+
+Present, NA, AT and RV
+
+Tape - no
+
+
+Paul Green
+
+Paul Green hails from Toyota, where he spent five years, charged with managing general expenses, including non-core items such a telephones, and from Rolls Royce (aero engines), where he headed their capital equipment purchases (i.e. construction). At ALSTOM Paul manages sourcing (procurement), logistics, expediting of suppliers, materials movement (internal and external to the production lines) and storage. 
+
+Paul is keenly aware of the project focus of ALSTOM and of the tension between centralised and de-centralised procurement. 
+
+
+ALSTOM
+
+The company was floated in June 1998 with a share-holding structure of 24% GEC, 24% Alcatel, 50% general and 2% employee. -  a �4.3 bn capitalisation. This gave the company the freedom to act independently of the previous joint venture owners.
+
+
+Business sectors and markets
+
+ALSTOM operates in sixty countries in a number of  engineering based business areas. They are presently involved in energy, rail transport, luxury liners, electrical contracting in construction and industrial infrastructure. The firm�s sales world wide are in the order of 14bn. World wide ALSTOM employs 92,000 people with a further 58,000 employed by ABB ALSTOM (see below). In the UK, the firm�s operation accounts for 40 business units, 20,000 employees and is worth 20 billion Euros. 
+
+Energy is a recent joint venture between ALSTOM and ABB power . At present the venture commands 18% of the market. 
+
+Transmission and distribution (principally switchgear and transformers) has a 14.5% market share.
+
+In the rail transportation sector ALSTOM assembles passenger trains, locomotives and manufacture related equipment, wheels, bogies, body shells and heavy traction equipment, for a wide range of transport needs - including mass transit and high speed TGV trains. They also provide servicing, maintenance, spares and after sales support. In mass transport ALSTOM is world number two but in the high speed train market they are the market leader. Overall transport commands a 16% market share and in the current year have just pipped Adtanz in terms of sales.
+
+Their construction or bespoke engineering business focuses upon contracting for electrical services. Recent contracts have included the suspension bridge linking Denmark and Sweden and a baggage handling facility for BAA. This is currently being divested over a period of 12-18 months.
+
+Their marine activities (France) are based in the luxury liner market � a small but growing market in which they have a 32% share. 
+
+Power conversion supplies to industry the company supplies automated systems, process controls, electric drives, diesel engines and fluid systems with a 10% ,market share. 
+
+As a general trend the company has moved away from energy and toward transport - energy being identified as an area with a high business turnover and, therefore, high risk1. It was claimed ALSTOM contracting has the largest local network in Europe. This provides a sort of brokerage service and promotes turnkey system provision.
+Service provision in rail transport now represents 23% of sales. On the Northern Line ALSTOM has a 36 year service contract.
+
+Regionally sales are 60% in Europe at present of which France takes 24%. The Americas account for 18% of sales but this has significant growth prospects for ALSTOM.
+
+Organisationally, ALSTOM has a presence in 60 countries around the world, with 40 units in the UK. The UK country network is headed by Mike Connor, the UK President, responsible for the identification of the best interests to ALSTOM at country level, the consolidation and coordination of UK general expenses and locational issues and synergies.
+
+ALSTOM Transport is headed by its President, Michel Moreau, who sits on the Executive Committee of ALSTOM SA. Senior Vice President for Passenger Transport is Mike Lloyd.2 Vice President of Sourcing is Xavier Loefel.
+
+
+Present key transport projects
+
+Arlanda Airportlink. City to airport train service. 7 4 car sets. Difficult customer � extensive trials.
+
+London Underground. Including 106 6 car train sets for the Northern line, 50 6 car sets for the Jubilee line.
+
+Coradia Juniper. Juniper is the electric powered version of ALSTOM�s �generic train�. The train is delivered in the required liveries and interiors and is offered with a choice of front ends. The choices are cosmetic allowing a standardised product (albeit at low-volume). Current contracts are for the Gatwick Express, South West Trains and ScotRail. 
+
+Coradia 1000 is a diesel train set to replace the existing 125mph High Speed Train (HST). This train is powered by a new range of Cummins diesel engines.
+
+West Coast Mail Line (WCML) for Virgin Trains.  A �592m contract for 53 high speed tilting electric multiple units. Fiat is a 45% partner in the venture. Fiat is providing the body shell, bogies and doors. ALSTOM are responsible for the interior design, assembly and remaining integration. The contract itself, although regarded as a reputation building milestone for the company, is high risk. Contract requirements include the following:
+140mph maximum commercial operating speed
+Availability of 47 trains per day
+Reliability � 50,000 miles between failures
+Ride quality � 30% better than a (specific) loco-hauled train.
+Interior noise � 65dBA max.
+Moreover, Virgin has thus far proven to be a tough customer. The contract has required some re-organisation of the company, with part of this reorganisation involving design staff being housed in a single open-plan converted warehouse.3 
+
+Although there is an anticipated lull in the market in 2000, a major tranche of contracts are coming up as franchises are due for renewal. The main players, ALSTOM, Adtranz and Bombardier may not be able to take all the available business, opening the door for more efficient Far Eastern producers to enter the UK market. There is therefore a desire to seek an evening out of the pattern of franchise renewal.
+
+
+Business strategy
+
+ALSTOM sees itself as a management contractor: �we want to deal with an agent � to pull all of the bits together�  (interview 1). ALSTOM also sells a complete service package, rather than simply a manufactured product. The firm believes that the greatest profits are to be found in �turnkey packages� rather than in manufacturing per se. In this sense the product becomes �the hook� (interview 1.) by which a host of support services are also sold. This strategy, arguably, is also driven by customer pressure. Virgin, for instance, no longer wants to buy trains � rather they want to buy �seat miles�. Prior to interview, ALSTOM had signed a 12-year contract with Virgin Trains worth �1.2bn (1.8bn Euros). Of this figure �550 million was accounted for by the rolling stock while the remainder was taken up by the service aspect of the deal (maintenance and spare parts). It is worth noting that the cost penalties are greatest on the maintenance part of the Virgin contract, but potentially occur over the longer term. Note also that, whilst the WCML contract is a key project from the perspective of ability to win future contracts, because it is so demanding, it is small in relation to the core business of the Juniper and Coradia trains.
+
+
+Performance Improvement
+
+At present ALSTOM is looking for a partner who will be able to analyse their activities, in particular their customer focus, in order to seek improvements in it. As yet, however, they have been unable to find anyone to accept the business.        
+
+Paul has been attempting to establish sourcing as a strategic function using �stretch 30� through the Boston Consulting Group. �Stretch 30� is so named because it aims to achieve 30% reductions in costs over three years. The programme involves: the rationalisation of the supply base, an increase in E-commerce; redesigning for cost (i.e. simplification of specifications), inter-group training (40% of ALSTOM�s spend is with its own companies); make or buy (at present the only aspect of its trains ALSTOM actually manufacturers are the wiring looms4 and it only makes these in-house because of the pace of change5) and adopting a quality focus (sourcing to good suppliers for quality and quality accounting). Savings of 200m Euros were achieved in 1998/99.
+
+
+Design 
+
+The design process has a high degree of customer involvement. Virgin, for instance, has spent vast amounts of time involving themselves in the design and re-design of the lighting inside the new HST carriages. Virgin, claimed Paul, had aspirations for the design which had pushed ALSTOM beyond that which they were previously capable. Customer interaction with the design process has meant that seventy (mock ups?) sets have had to be produced before the design was stabilised. 
+
+A major problem on contracts is late design stabilisation, leading to a lot of retrofit work. Therefore a couple of pre-series sets are being built early to enable debugging before assembly starts in earnest. Designs have to comply with very stringent regulations, some of which are effectively retrospective, which introduces additional cost.
+
+Major design issues on WCML include crash worthiness (partly because passengers will be seated (rear facing) in the lead vehicle travelling at 140mph), the kitchen and the disabled toilets, which has to be fitted in a tight spatial envelope whilst complying with access and turning regulations. Paul Green also indicated that the wiper blades on the driver�s cab were a major issue, since the regulations state they must remain in contact with the windscreen surface at all times, although the reality on most vehicles is that at speed this does not happen.
+
+Another major change facing the industry is the pressure from the customer, due primarily to the short franchise period, for the train to �work out of the box�. The customer is no longer willing to wait while the train goes through a 3-6 month commissioning process, whereby the train is dead hauled from the factory to a depot where it undergoes further testing. In future train sets will have to �drive out of the site�.
+
+
+Design Studio
+
+The creation of the design studio is a conscious attempt to create a concurrent engineering environment where multi-functional teams responsible for different zones of the train are co-located and where the customer and suppliers are able to come in to interact.
+
+Efforts have been made to ensure that all design staff are fully cognisant of the costs of failure, to ALSTOM, of not meeting targets agreed with the customer. Along the walls of the design room the financial costs of missed deadlines, along with key targets, are displayed in bold graphics. Design is clearly viewed as a key area in which final costs can be controlled. 
+
+
+Production
+
+Production (more correctly assembly) is carried out on a sort of flow line basis. Testing is done in-line -  �testing as we go� (interview 1.). Originally testing was done after each unit was completed and, as a consequence, further problems would often be created as the unit was pulled apart in search of the original problem.
+
+Other improvements in production have included the introduction of Kaisen approaches on the shop floor in conjunction with the consultancy TBM6. The ScotRail contract was chosen for this approach. A particular aspect of production to be ear marked for improvement has been �material presentation�. This has involved re-designing the layout of the production line - in particular to create more space between the lines in order to improve online storage and parts accessibility. Previously workers on the line were forced to �root around in boxes� (interview 1.)  to find the parts they needed. Some of the lines have been allowed to remain as they are in order to facilitate performance comparison7. A week course in Kaisen is being planned for workers. Attempts are also planned to move the Kaisen system up-stream to suppliers. 
+
+Non-project supply chains
+Attempts are being made within the company to co-ordinate the purchase of �general� goods. The firm�s structure has a regional and a functional dimension and it is recognised that different regions do not communicate well. This has led to unnecessary multiple-sourcing for same items. The problem has given rise, subsequently, to a new co-ordinating role within the firm. The role of the co-ordinator is to seek the best possible efficiency at country level by creating synergy between similar activities. A key means of achieving this has been the sourcing of common expenditures to a limited number of global suppliers (say 2-3). This leads to increases in the efficiency of making such purchases and to increases in ALSTOM�s leverage in its supply chains. 
+
+Project supply chains 
+The pressure on train service providers like Virgin to meet safety and performance targets has, to a large extent, been passed on to train suppliers like ALSTOM. Because ALSTOM undertakes to deliver seat miles to Virgin the demands placed on the firm range from reliability, measured in �kilometres between failures�,  to a precise specification for a breaking system. These specifications are themselves passed on by ALSTOM to its suppliers who are expected to deliver black-box solutions. ALSTOM translates customer requirements into precise technical specifications and requirements. In terms of the breaking system, for instance, as well as a specific breaking performance, a weight limit and compatibility with specified bogie was demanded of the suppliers. On the WCML project supplier engineers will locate at Washwood Heath to discuss interface issues. Other than this, the supplier is totally responsible for meeting the performance specification.
+
+Managing design and production in this way has created new challenges for management at ALSTOM. Previously, managing supply chains had been a sequential �crisis management� process. As Paul Green described �First, locate a supplier and then relax. When it gets closer to the delivery -  get anxious and send a manager  � too late�.  In the light of these sorts of problems ALSTOM has begun to change the way in which it interacts with key suppliers. ALSTOM now sends a �manufacturing technical support manager� on planned visits to the supplier from an early stage. The engineer looks at the supplier�s plans, tooling and produced items and gives any support and advice that is required. The engineer can also co-ordinate help if it is needed, whether in manufacturing or design. In some cases ALSTOM engineers have helped suppliers arrive at an early design solution. 
+
+This on-going and more �interactive� way of managing supply chains may also prevent more costly changes being made later. According to Paul, design engineers at ALSTOM have never allowed themselves to be shut out of any aspect of the design process � not least black-box solutions delivered by suppliers. Typically, claimed Paul, the engineer �pokes around, says he doesn�t like this and wants changes � so it goes it back to the supplier� (Interview 1).
+
+
+Key Commodity Management (KCM)
+
+At present a major sourcing initiative is underway to attempt to move the organisation away from project-based structures. The old structure has a different sourcing team for each project, which reports to the project director not the sourcing director. A sourcing structure that reflects the commodity base and serves the whole business is being created. But there is resistance from project directors and within the matrix structure thus created there are arguments between project directors that stem from the fact that they are responsible for profit and therefore need to see some control over the sourcing team.
+
+The KCM concept creates the potential for establishing centres of excellence. Key commodity managers will be established with responsibility for key commodities such as the HVAC, brakes, interiors etc.
+
+The target is to produce a standard product although there will be some variation e.g. on Juniper there are three brake variants possible. Procurement will need to work closely with both engineers and suppliers to reduce costs. This implies a specialist function compared to the current generalists. 
+
+
+Logistics
+
+At peak production on the WCML project the plant should be putting through 8 cars per week with no planned storage. ALSTOM is considering a third party logistics partner � needs to be a big player with a pre-existing competence. There is also a massive service function which involves moving parts around the country. A large logistics partner could even look to cross-European integration.
+
+
+Supply Chain Initiatives
+
+These are in their early days. CIPS has just launched a supply chain initiative for the rail industry and PG sits on its steering committee. The Railway Industry Association is also launching its own supply chain initiative, seeking DTI funding with a view to copying the SMMT initiative in the automotive sector. PG has been nominated to this as well, thereby providing a link between RIA and CIPS.8
+
+
+Notes and thoughts
+
+A key part of ALSTOM�s competence lies in the selection of suppliers and in the subsequent management of those suppliers. Quality, technological competence, reliability and cost are clearly key features for procurement - indeed at present, efforts are being made to raise the profile and �calibre� of  the procurement function at ALSTOM (interview 1.)
+
+Arguably, ALSTOMs �intelligent� interaction with its supply base offers opportunities to prevent the loss of tacit and codified knowledge. Indeed, maintaining the interaction itself creates an imperative to maintain a high level of in-house expertise. In order to manage their suppliers intelligently, and in particular to be able to intervene in their activities, it is clearly essential for engineers at ALSTOM to maintain high levels of expertise and knowledge.
+
+
+Meeting at ALSTOM (Birmingham), Wed 9th Feb, with Paul Green
+
+Present � NA, CI and RV
+
+No tape
+
+Issues discussed
+
+* There are two pre-series models, the first of which is now in production. Building the final train will begin at the end of the year. At present ALSTOM Birmingham is �Drowned by change�(interview 4) � in a process in which you are �designing while you are trying to build� (interview 4). Changing parts mid-design adds costs and disrupts supply. Pre-series 2 will be begun in May / end of April. 
+* Currently ALSTOM is trying to make sure that the selected suppliers are ready. The technical support people have started visiting suppliers as of the beginning of February to check that tooling is being prepared and that the supplier�s capacity to produce the required product is in place.
+* All suppliers will have been scheduled by the end of March. ALSTOM will be visiting suppliers for pre-series 2 at the end of March. 
+* Some aspects of the design are box-standard while others are more problematic. 
+* The bogie is a standard Pendolino � tried and tested design. The body shell is also standard, but the floor, which is actually part of Fiat�s scope, is being assembled at Washwood Heath on the pre-series in order to iron out any assembly difficulties. The main changes are in terms of interiors and electricals.
+* The floors ordered from ALUSWISS are highly problematic. ALUSWISS do not consider ALSTOM an important customer. Moreover, because of the large size of the floors the work is specialist and limited to few suppliers (ALUSWISS and one other US company). They, ALSTOM reported, have �gone to the wire� (interview 4) in terms of poor servicing of the contract. ALSTOM are looking at ways to divide up the floor into smaller sections to allow them to broaden the supply base.
+* Train wiring harnesses change continually throughout the design process. Such is fallibility of these harnesses that engineers will delay completion of the electrical schematics as long as possible to increase the chances of their functioning properly. Ideally, the hope is that the first train in the series will capture all of the design errors. Problematically those errors are often multiplied by attempts to fix them. Harnesses are long and complex and are easy to damage through trapping and pulling. A software solution is being considered � though it is predicted by ALSTOM that the industry�s change resistant culture will make this difficult to introduce.
+* Future change will revolve around maintenance contracts and it is expected that this focus will drive change toward new technologies. ALSTOM is now including in their search criteria for suppliers the readiness to adopt to new technologies. Technical support also monitors this readiness.
+* The railway industry is relatively archaic and has proved unwilling to accept modern databus technology for example, preferring to stick with electro-mechanical designs. The maintenance side of the business is behind in this respect, partly because it is still maintaining old rolling stock.
+* ALSTOM�s delivery programme is tight � 15 months in which to deliver 54 new trains. At the height of the production schedule there will be no room for error. 
+* Every future project will benefit from this one.
+* ALSTOM uses the Catia CAD system to send files to its key suppliers. All of the latest suppliers are adopting the system although none, including ALSTOM, claim to be using efficiently yet. Ultimately ALSTOM want to be able to interrogate their suppliers production systems and track the progress of orders. Kanban delivers such a capability and eventually all ALSTOM suppliers will use it for category A parts9. 
+* The ALSTOM design process is itself being re-designed. Programmes (including value engineering) to look at costs have so far resulted in savings of 20 million ECU (30 million is the target). The pre-series builds are the present target. A fuller interaction with suppliers early in the design process is viewed as key to cost reduction. Savings are achieved through �big stick negotiation�. The design is broken down into packages and a more cautious approach taken to supplier selection.
+* By illustration, ALSTOM reported that one Finnish supplier visiting the site had got out their drawings and literally pointed to design areas where savings could be made. A further illustration concerned two waste bins on the virgin trains. Minor and unnecessary differences in the design of the bins required extra tooling and cutting by the supplier and so incurred extra costs. ALSTOM�s objective is now to allow suppliers to be more proactive in spotting areas where cost savings could be made. However, resistance from engineers, who may perceive any suggested changes as a criticism of their work, is expected. Early release of technical information is the target.
+* Another key driver in the ALSTOM design process is safety. Because passengers will be seated at the front of the train, and because the body shell is aluminium, the crash worthiness of the carriage will have to be twice that of present standards. The kitchen, located right at the front of the train, will present a buffer for passengers in a crash. Passengers will also face backwards. A key safety feature of the train is a sophisticated automatic breaking system. However, rather than being driven by the recent �breaking system controversy� arising out of the Paddington disaster, the system has in fact been driven by predicted increases train volumes. It is predicted that such systems will soon be essential to stop trains hitting one another.
+* The Birmingham unit is one of the few in ALSTOM not to make its own body shells. ALSTOM Birmingham sources mainly in-group from a Spanish unit. Intra group relationships can be less straight forward than those forged outside the company. For the Scot Rail project, shells were sourced from Hungary. Although ALSTOM Birmingham was forced to support the firm, by buying materials in for them  (sourced in-company from Spain) to prevent them going bankrupt, it was felt that the savings made justified the action. It created the opportunity for very close supplier management. ALSTOM is now fighting off competition from in-group and from Siemens to use the supplier. It remains difficult to establish a long term strategy with the supplier because of potential conflict with strategy at group level. It was suggested that there is no corporate strategy regarding the body shells at present.
+* Current restructuring to a commodity structure to, mirror the commodity teams being led by Xavier Loefel at corporate level. These corporate teams have responsibility for around 40 business units compared to just 8 or 9 in the passenger business. The Birmingham plant will probably become responsible for interiors. The company needs to erode the traditional project management structure to create strategic commodity purchasing.
+* Train companies are increasingly being replaced by bus companies and this is forcing companies like ALSTOM to adapt to a new commercial culture. From ALSTOM�s perspective bus company directors do not �understand� the technological, organisational and logistical difficulties involved in manufacturing bespoke products like trains � rather, they are used to ordering standardised buses. Consequently, these new customers are seen as over-demanding and even abrasive. They have a very different style of relationship and are quick to �blow the whistle to the top�. This has sometimes resulted in weekly conference calls to the customer on the part of the MD. The ability to react to these customers is critical.
+* ALSTOM plans to use a logistics partner to help them manage their materials flows. Support with sequencing, �kitting�, buffering and storing (pre-production line) is envisaged.
+* ALSTOM envisages the creation of a �suppliers village� through site redevelopment. Suppliers will be able to assemble units on site (e.g. toilet units from Sweden). Because many suppliers will have interfaces between their units, a social interface to compliment this was seen as likely to be valuable. Moreover, designers from suppliers visiting ALSTOM will hold meetings and do work in an area physically within the assembly shed. Consequently, they can either walk a few paces over to the point of assembly, or literally lean over the railing separating the two areas, and interact directly with those involved in the assembly process.
+* Deliveries will operate a two-day track time. Consequently, if ALSTOM Birmingham is unable to use those parts in that time they will be �buried� under parts. As one respondent put it: �The chain is fully stocked, if you pull it down there is quite some inertia� (interview 4). Our interviewee was unsure if the culture was in place to cope with inventory push from suppliers. In the car industry, the culture supports the JIT process � there is only the �Toyota way�. The rail industry, argued our interviewee, is different � moreover, it is a �brown field site with brown field people�.
+* Most rail suppliers can not understand the principles that Paul Green wants to instigate. TBM are introducing alternative site visits to involve suppliers in seeing the systems in practice.
+* Credibility, as well as demand leverage, is an important part of successful supply chain management. Units such as ALSTOM Birmingham must be able to demonstrate that they can accept an agreed supply of materials if they want good service from suppliers � particularly from those that don�t need their business.
+* Buyers need high levels of technical knowledge to deal properly with suppliers. Unless they know how long it should take to produce a particular item then they have no way of pushing for a shorter lead-time. PG - How do you deal with cross border (cultural issues)? 
+
+
+
+Interview with Ron Temple, WCTC Director, at ALSTOM, 29.06.00
+
+Present � AT and CI
+
+Editors (CI, last edit 30.11.00)
+
+Disk - yes
+
+
+The business
+
+Sixteen months ago ALSTOM created a service business out of its existing transport business. This was developed out of activities with AVE in Spain, on the back of the London Underground contracts (the same people who negotiated the Virgin deal had previously worked on the Jubilee line contract) and through the Eastly facility (which ALSTOM bought in 1999 when it was Wessex Train Care - itself previously a management buy out of BR). The group undertakes overhaul /renovation, parts supply (a business selling parts to the rail industry) and maintenance work. WEST Coast Train Care (WCTC) is part of the maintenance business.
+
+During the research, ALSTOM acquired a majority share in Fiat F. ALSTOM had recognised that world market leadership requires the production of VHS trains based on electric power units and with tilt technology. Acquiring Fiat F. gave ALSTOM the tilting technology it needed to pursue VHS contracts in Europe. 
+
+
+Maintenance strategies
+
+Train Operating Companies (TOCs) have different strategies for ensuring the serviceability of their trains. For example, while GNER works alongside it�s rolling stock�s manufacturer (ALSTOM) and keeps the maintenance function in-house, Virgin has preferred to outsource the whole activity to the original manufacturer (ALSTOM). Both companies frame the problem quite differently, while GNER sees maintenance as a key strategic aspect of its own service delivery, Virgin views the matter as a business risk. 
+
+
+WCTC successes
+
+A 33% reduction in discrete failure and defects (such as air conditioning and lighting) has been achieved by WCTC over the last year. 
+
+
+The WCML Contract
+
+Contractually, Virgin is WCTC�s customer. 
+
+The maintenance of Virgin�s existing WCML rolling stock was transferred to ALSTOM on the 20th of Feb 1999. Virgin wanted to transfer the business to WCTC as early as possible in order to ensure that the centres were ready for the new Pendolinos. The train care centres are now preparing for the first prototypes (due at the end of 2000 � now delayed).
+
+Performance penalties are heavy and, accordingly, keep WCTC �focussed�. The contract structure also leaves WCTC responsible for delivery. This has raised the profile of train service provision in the company to the point were it is no longer seen as a ��necessary evil�.
+
+
+WCTC cultural change
+
+WCTC have built on existing capability to deliver a viable service network for WCML. However, as a result WCTC has absorbed much of the existing disrepair and poor culture underpinning the poor performance of the WCML. These problems stem from chronic under investment in the past. Longsight in Manchester, for example, has been allowed to become a �black hole�  into which trains �go and never come out�. The shed has cobbled stone floors and no doors making it �freezing� in winter.  The centres also lack a common sense of the company�s overall goals. In Glasgow, for example, staff had previously focussed on what they regarded as their trains. While their trains had a white numbered card, pink cards indicated trains regarded as alien � as being from other depots.
+
+ALSTOM, however, brings a positive learning history in maintenance from its experiences with AVE�s HS train in Spain and SAP R3 implementation. At the heart of the change process for WCTC is cultural change. 
+
+�Centres need to feel cared about and they need strong leadership�.
+
+WCTC has formulated its HR policy on the principle that �people want to work�. 
+Depot names have been changed and re-branded, (for example: �Manchester Train Care Centre� and �Glasgow Train Care Centre�). There has also been an emphasis on staff associating with the manufacturer rather than particular TOCs. The workforce was also re-moulded in 1999 to create empowered, muti-skilled teams. Each team now has its own team leader and service delivery manager. (This structure will remain until it is felt that the team leaders are ready to take over that level responsibility).
+
+In order to encourage ownership of maintenance problems, the way in which information about failures is disseminated to the maintenance workforce has also been improved. The WCTC�s contract with Virgin stipulates penalties for �discrete� failures while Virgin�s own performance is measured in �minutes delay�. These minutes include those lost by trains held up by the failures of trains in front of them. It has now been agreed with Virgin that WCTC will receive information on delays in impact minutes. These figures are passed to the depots each morning so that teams can grasp the �real� impacts of failures. 
+
+Not all culture is easily shifted, however. For example, although the Wilsden depot may be at risk due to a lack of work, primarily because Wildsen is a loco-only shop and these are becoming less important with the advent of DMUs and EMUs, Wilsden staff are resisting moving to Wembly and what they regard as a �� carriage depot�.
+
+
+New approaches to maintenance
+
+Balanced exams
+Traditionally, essential routine maintenance has been carried out by delivering a train to a depot for a given period � therefore taking it out of service. However, Virgin has as a rising stock availability requirement10 which makes this an increasingly difficult and untenable approach. WCTC has determined that the only possibility to achieve these new targets is to move maintenance to night shift and to take a �balanced exam� approach. The balanced exam breaks down each train�s overhaul and spreads it over a number of sessions and centres. As trains are no longer allocated to particular TC centres they can have their scheduled maintenance done in chunks alongside emergency services. Specialist aspects of the service, in particular those that require lifting the train off the tracks, are done at Manchester11. 
+
+(�45 ��50 million spent by bombardier on cross-country maintenance.)
+
+Other shifts in maintenance routines
+
+1. 680 engineering staff were transferred into Train Care activities. TC put in management experience also.
+ 
+2. Operation Impact. The aim of Operation Impact has been to improve the condition of existing rolling stock. Two approaches have been taken � re-designing the maintenance routines and �baselining� loco condition.
+
+Repeat defects account for 65 � 70 % of all loco problems. However, at the depot there is often no time (2 hours) to find the cause, with the consequence that locos are often returned to service without the fault being diagnosed. New working process now determine that once the same fault has been recorded more than once on the same loco by a fitter then a technician must attend the loco. If the train fails again it is taken out of service until repaired. 
+
+Base-lining locos involves bringing the loco up to a higher level of basic condition (by cleaning out electrical boxes and so on). The process has taken worst performing class 90 and made it the best performing class 90.
+
+
+It is also recognised that there is little benefit to having a skilled mechanics �visually inspect� trains (i.e. looking at break pads and so on). Instead, semi-skilled workers are having their responsibilities increased (to include visual train inspection) while skilled staff are increasingly employed analysing faults 'by laptop'.
+
+
+Regulatory and commercial context
+
+Maintenance sheds are leased from Railtrack12 and as such are regulated. As a consequence, WCTC find themselves working for other TOCs and for other manufacturers other than ALSTOM (Bombardier at Manchester; ScotRail at Wembley and Glasgow; and First North Western at Manchester). WCTC cannot give preferential access to Virgin services. Moreover, if there is capacity to take trains Railtrack will ensure that they take them.
+
+When other operators put maintenance work into WCTC centres the regulator will take a view on the price that is offered. The details of that arrangement remain the concern of the TOC and the TC centre, however. 
+
+Any operator using a TC centre also has voting rights in accordance with the amount of work they have being done. 
+
+Bombardier will also benefit from the changes made for new WCML trains.
+
+
+The separation of design and build
+
+Up until the late Seventies most trains were designed and built in-house by British Rail. BR were expected, by government, to build to a specification for the lowest cost possible. Even trains built by private companies were usually designed in-house by BR engineers to this end. This created a �best solution for the money available� approach to design and kept the customer in close contact with the design process. 
+
+Privatisation in the mid-to-late 1980s began with a shift toward �procurement contracts�. The need for competition meant that trains were designed and built by a manufacturer according to a performance criteria set by BR. This had the effect of separating the manufacturer and the train operator. The �performance contract�, as it was known, thus meant that trains were now designed according to the preferences of the manufacturer (and their suppliers) with a more limited input from the operator. The break up of BR into Railtrack and numerous TOCs increased this fragmentation. Whether this �distance� is felt in terms of dis-connectivity or poor co-ordination between activities is unclear.   
+ 
+
+
+
+Design for maintenance
+
+Reliability can be specified in a contract and can be responded to in design. However, �maintainability� is more difficult for engineers to grasp in detail than more narrowly defined train performance. As RT pointed out �Maintainable - what does that mean to someone who has never been in a maintenance depot�. 
+
+That maintainability has failed to be central design heuristic in train building is evidenced by numerous features on existing trains. On the class 91, for instance, removing the cab air conditioning packs for servicing necessitates the removal of the entire roof. Similarly, checking the rear break stack over-heat thermostat (this shuts down and vents the break if it over-heats), though in itself ��a two minute job�, necessitates removing the whole break stack. In another instance, designers placed a compressor laterally across the under-frame of the train. Mounted this way makes it impossible to remove using a folk lift. The battery box on the Pendolino, furnishes a more recent example. The battery was designed to be removed by a fork lift at the maintenance depot. However, it has became apparent that there is not enough space in the maintenance shed for a folk lift to do so. 
+
+The need to design with maintenance in mind has led to the development of new design strategies. On the Northern Line maintenance staff were brought into the design studio while the design process was on-going. The success of this was limited, due in part to the late involvement of maintenance staff and  because engineers regarded the presence of maintenance staff as �big-brotherish�. 
+
+Different TC centre team leaders from around the country have also been made responsible for different aspects of the train design (e.g. traction at Manchester and toilets in Glasgow). Designers are also now expected to spend time in these train care centres developing an awareness of maintenance problems. RT is at present implementing a programme of two-week visits, including time on the night shift, for designers. 
+
+(Surprisingly, WCTC has as much risk tied to customer interface aspects of the train (kitchen equipment) as it does if the train fails to run. 
+
+Organisation changes
+It is recognised by ALSTOM that the existing interaction between ALSTOM and WCTC could be improved; at present ��one team is policing the other�. A solution to this has been to create a �Fleet Development Director� responsible for the outputs of both teams. Under him there is a �New Trains Build Manager� who looks at design for maintenance and reliability and the production of manuals and other materials. 
+
+There have also been changes in the deployment of finance. Money, once set-aside for penalty payments, is now re-deployed to help improve train life-costs. 
+
+It is now generally recognised at directorial level, that the imperative for trains to be delivered on-time and to cost, must now be balanced against a longer-term view of maintainability and reliability. However,  "�engineers find the adjustment difficult"
+and although the needs of maintainability have made some in-roads into the design process, the industry remains an essentially 'product performance� led one. "Big and strong" has historically been the key heuristic in train design. While there are good reasons for this � arguably the train is perhaps one of the worst environments in which to operate sophisticated equipment � it remains that customer demands are forcing a broadening of the focus of train design.  
+
+The role of suppliers
+RT felt that suppliers should also be involved earlier in the project and design conferences were set up to encourage their input. Arguably, in the event the design conferences were held too late to make full use of suppliers. RT also felt, in retrospect, that there should have been a supplier presence (to form inter-company teams) in the design studio. A considerable barrier to this, however, has been the IP issues arising from the use of the �Red Book�. In some cases consultant designers have only been allowed to see the proportion of the red book that is directly relevant to them. 
+
+From the suppliers perspective, changes made after the design has been stabilised serve merely to increase their costs. It is essential from their perspective, therefore, that they be involved early in the design process. Concept stage change allows changes without adding cost. 
+
+More generally, ALSTOM have encouraged suppliers to become more pro-active in making changes post design - a position that is beginning to yield results. Westinghouse has, for example, improved their contribution to the Northern Line by suggesting a screw compressor in place of the existing reciprocating compressor. Although more expensive it is more reliable - something which ALSTOM has shown a growing willingness to pay for. 
+
+ALSTOM depend on suppliers for long term parts supply. This is not a new problem (as trains last for 35 years or longer) but the nature of the relationship is changing. Contracts now extend beyond a set warrantee period and include rewards for good performance and penalties for poor performance. Suppliers no longer expect to supply spares at a profit unless their equipment has performed as agreed (see CH notes).
+
+ 
+The supply context
+
+The rail industry has a small supply base - there are only, for example, three or four brake suppliers in Europe.
+
+TMS and traction are in-house. It is more difficult to work with internal suppliers as the relationship is "invariably more political". 
+
+TMS
+
+TMS technology oversees the performance of the train and allows faults to be identified before a train arrives at its maintenance centre. Traditionally, maintenance has been reactive - such that faults are only identified once the train is in the centre. This is highly inefficient for planning work; while managers may have a work-plan at beginning of the shift, �emergent� faults will invariably overtake the plan causing disruption and �fire fighting� later on. TMS technology helps relieve exactly these problems. 
+
+Traction control, made essential by push-pull train sets, forms the basis of the innovation. The early 1990�s saw the first push-pull locomotives � an innovation which depended upon automatic communication and co-ordination (i.e. between locomotives). Sliding doors have also formed a part of, and have driven the development of the control system. As computer technology has become more solid state TMS has also grown with that. From the manufacturer's perspective: "If a train has a management chip it is may as well carry a diagnostics package". 
+
+This is not a new technology and the first full diagnostics capability was available on the TGV Atlantique; now 12 years old. However, the system has since advanced to the point where it allows the train to be diagnosed remotely, meaning that the train operator and driver can be assisted, conceivably by the manufacturer, while the train is on route.
+
+The TMS cannot extend into all areas of train maintenance supervision. For these roles, AEA technologies in Derby, in partnership with ALSTOM, provide ground-based equipment which �view� wheel treads, brake pad thickness and �pan head' (i.e. pantograph) thickness each time the train goes through a TC centre. If there is a shift in the expected wear pattern this is taken to be indicative of a problem.
+
+
+Competition 
+
+WCTC must compete with other maintenance providers for business. MainTrain have franchises including Midland Main Line, Scot Rail and Central andWCTC compete with them directly for Bombardier trains. EWS (freight) also compete with WCTC. The Pendolinos are contracted to WCTC unless they fall below their service agreement.
+
+
+The WCML contract 
+
+The WCML contract covers three companies (WCTC, West Coast Service Provision and Virgin West Coast). ALSTOM have a Train Service Agreement (TSA) for the design, building and maintenance of new stock and for the maintenance of Virgin's existing WCML stock. Because agreements are necessarily with regulated maintenance centres they are public domain documents. For this reason, Virgin did not want a formal service contract direct with WCTC. Instead ALSTOM created West Coast Service Provision to hold the depot access agreements. 
+
+A further organisation, WCTC Holdings Limited, was created for tax purposes. Share ownership is also located here. ALSTOM and Fiat staff sit as non-exec members of the board. 
+
+There is also a 'Manufacturers Supply Agreement' (MSA). The MSA guarantees WCTC all of their materials and parts within the life costs predicted by the each of the partners (i.e. Fiat and ALSTOM). 
+
+Together ALSTOM  and Fiat act as WCTC�s contractor. WCTC staff have learned to deal with ALSTOM �diplomatically� in order to get what they need from them.
+ 
+Managing a contracting JV which is effectively perceived as a 50 / 50 split (it is actually a 45 / 65 split) has proven difficult.
+
+
+Virgin and Angel 
+
+Ultimately, Virgin does not own the trains - rather Angel does. However, Virgin did not want to get into a situation whereby Angel had procured the trains and then simply handed them over in a leasing arrangement. Virgin wanted to get involved in the procurement process directly "�to ensure that they got exactly what they wanted". 
+
+
+Other interactions 
+
+WCTC have people in Virgin�s operations centre at Birmingham. The operations centre houses engineers and planners who interface with Railtrack. In the event of a service failure, the first priority for all parties is to get services back up and running. Having done that, the second is to ensure that any service re-start is planned around maintenance needs. Operations and maintenance are often therefore in conflict; the existence of penalties for delays also promote argument as to who should take responsibility. External arbitration is provided to the centre if needed, though ��generally it works fine�.
+
+
+
+Interview with Ken McBean (Stretch 30 Manager), 22.03.00 at ALSTOM, Birmingham.
+
+Present � NA, AT and CI
+
+Minidisc � 3AL
+
+Eds. � CI, NA
+ 
+[K McBean used to work for Adtranz - for 15 years]
+
+Sourcing Structure
+
+Paul Green - Under his jurisdiction are the Juniper (David Forman), Coradia (Ian Burgess), Inter-City / WCML (Chris Holt). They have a dotted line to PG and a continuous line to the project director. Operationally, each will report directly to the project director. Functionally, they will report to PG (KM felt that they tended to look more to PG for guidance than project directors).
+
+Also in the structure:
+Central procurement - chairs, desks, PC�s- (Chris Nelson)
+Material Control (Peter Jakes)
+Stores (Tony Hawker)
+Stretch 30 (Ken McBean)
+
+Central and Key Commodities -  Manager (Chris Holt). This marks an attempt to move away from project buying and toward �commodity sourcing�. Under the stretch 30 �banner� this may be re-named �sourcing for quality�. 
+
+Stretch 30 was initiated by Paris eighteen months previously. ALSTOM Birmingham were the guinea pigs for this. 6-9 months ago the �quality focus� initiative was begun (this is a larger initiative than stretch 30). Stretch 30 is embedded within the �sourcing for quality� focus. 
+
+Sourcing will focus upon six main commodities: interiors, brakes, air conditioning, engines, (will give us some slides), fittings and electrical panels.
+
+Zones relate to areas of the train. For example, the cab zone was identified as a distinct entity because of its relationship with approval (including the driver�s union) and the need for early build. The zones also relate to the way in which the train is put together to allow for concurrent engineering. 
+
+Train production is divided into six zones (originally there were six, then five, then six again six months ago). Each zone comprises a zone leader; engineering; design; production and purchasing. This is ALSTOM�s first attempt to �zone� work in this way. The set up was supported by the Computer Sciences Corporation (1998).
+
+
+Concurrent engineering and maintenance-centred design
+
+Engineers would in the past sign-off a design but this has been made more complex. Drawings would come for approval and an engineer would sign them off. Now there are 4-6 boxes to be to be signed off by different functions. In the past the assembly manager would not be able to veto the design until the equipment had arrived on the shop floor. It would be at this time that he found whether or not it fitted together. It remains that each designed item is considered separately in terms of its engineering, cost, weight, assembly and, now, maintainability. 
+
+Engineering, assembly and maintainability are the key functions to sign off : �It is no longer a case of building a train and chucking it over the wall with two years warranty; we will be maintaining these trains for 12 years� That is part of ATSL (the services side) rather than ATL. There are perhaps a dozen people in the various zones working for ATSL rather than ATL. They are involved in signing off the project and are looking to ensure that it is maintenance friendly. As this has rarely been considered in the past it is a considerable source of conflict.  
+
+However, justifying spending in search of long term returns has proven difficult to justify. To support this ALSTOM use a product life cycle model. However, the model has to be used cautiously:  �prices change�.
+
+�Reliability Centred Maintenance� is a technique used to attack unreliable products. 
+Design must decide upon cost and durability against ease of removal (which may add design and manufacture cost). If cheaper items have a shorter life then they must be easy to remove and replace. Alternatively, the spec can be raised to ensure negligible maintenance/ replacement � in which case it does not need to be designed for ease of removal. Inevitably, design trade offs with other equipment demanding ease of removal will have to be made. Typically, engineers want to design ease of removal and specify long-life 
+
+A particular innovation in this regard is the Train Management System (TMS) installed to ensure that maintenance is planned through the provision of early warning of potential failures etc.. The system is accessed between visits to the depot and the depot can be advised as to what work needs doing and where, in advance.
+       
+One of the biggest maintenance issues on the train is cleaning (for which ALSTOM via WCTC, is responsible). Seat covers have been designed to be quickly removable and dry-cleanable. There can, however, be an over-focus on building for maintainability. Figures for these models are not particularly reliable.
+
+The calculations and arguments surrounding cost savings can become complex. The EP break units on Juniper, for example, were originally installed at a two per vehicle - one per bogie. Stretch-30 argued that because both units were not necessarily involved in every breaking episode that one should be deleted (KM had also observed that their competitors only used one unit). Consequently, on Juniper2, one of these units was deleted. Initially engineering had argued that there is substantially less pad wear using two units � and therefore a cost saving in the long term. However, it transpires that this saving is lost because of the habit of the practice of replacing all of the break pads at the same time to save maintenance time. 
+
+Design choices for troublesome items include: re-design, source to higher quality, design in easy access for regular replacement and to question if that part is actually needed. The last question is the stretch 30 approach.
+
+Information about wear and performance comes from the maintenance depots (ALSTOM now owns these depots). The depots identify the major maintenance problem areas and pass that information back to ALSTOM. Lighting is a major issue that is emerging. Information is compiled by people at ATSL. Procurement does not have access to this information. 
