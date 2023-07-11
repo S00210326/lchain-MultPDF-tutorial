@@ -37,12 +37,6 @@ PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
 PINECONE_API_ENV = os.getenv("PINECONE_API_ENV")
 
 
-def clean_text(cleaned_text):
-    # cleaned_text = " ".join([word for word in cleaned_text.split() if word.isalpha()])
-
-    return cleaned_text
-
-
 def chunk_text_by_tokens(text, max_tokens=3000):
     """
     Splits the text into chunks of a specified number of tokens.
@@ -59,41 +53,16 @@ def chunk_text_by_tokens(text, max_tokens=3000):
     return chunks
 
 
-# def get_pdf_text(pdf_doc):
-#     text = ""
-#     # Reads all pages of the PDF and gets all text
-#     pdf_reader = PdfReader(pdf_doc)
-#     for page in pdf_reader.pages:
-#         text += page.extract_text()
-#     return text
-
-
-# def get_text_chunks(text):
-#     text_spliter = CharacterTextSplitter(
-#         separator="\n", chunk_size=1000, chunk_overlap=200, length_function=len
-#     )
-#     chunks = text_spliter.split_text(text)
-#     return chunks
-
-
 with open("ALAllints2.txt") as f:
     all_text = f.read()
 
-
-# text = "\n".join(all_text.split("\n"))
-cleaned_text = clean_text(all_text)
-
-# print(cleaned_text)
-# pdf_text = get_pdf_text("ALAllints2.pdf")
-
-# text = get_text_chunks(pdf_text)
 openai_llm = OpenAI(temperature=0)
 
 index_creator = GraphIndexCreator(llm=OpenAI(temperature=0))
 
 
 # Split the text into chunks
-chunks = chunk_text_by_tokens(cleaned_text)
+chunks = chunk_text_by_tokens(all_text)
 
 # Initialize an empty graph
 
@@ -107,12 +76,8 @@ for chunk in chunks:
 
     # Add triples to your DiGraph
     for triple in triples:
-        G.add_edges_from([(triple[0], triple[2], {"relation": triple[1]})])
-# graph = index_creator.from_text(cleaned_text)
-# for edge in G.edges(data=True):
-#     print((edge[0], edge[2]["relation"], edge[1]))
-# chunk_graph.get_triples()
-# print(G)
+        G.add_edges_from([(triple[0], triple[1], {"relation": triple[2]})])
+
 
 entity_graph = NetworkxEntityGraph(G)
 triples = entity_graph.get_triples()
@@ -123,13 +88,7 @@ question = "Who owns alstom and what is it ? "
 
 print(chain.run(question))
 
-# # Create graph
-# G = nx.DiGraph()
-# G.add_edges_from(
-#     (source, target, {"relation": relation})
-#     for source, relation, target in graph.get_triples()
-# )
-# G = nx.DiGraph()
+
 # Plot the graph
 plt.figure(figsize=(8, 5), dpi=500)
 pos = nx.spring_layout(G, k=3, seed=0)
