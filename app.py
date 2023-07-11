@@ -1,37 +1,16 @@
-# import streamlit as st
 from dotenv import load_dotenv
-
-# from PyPDF2 import PdfReader
-
-# from langchain.text_splitter import CharacterTextSplitter
 from langchain.indexes import GraphIndexCreator
 from langchain.llms import OpenAI
-
-# from langchain.document_loaders import TextLoader, Docx2txtLoader
 import networkx as nx
 import matplotlib.pyplot as plt
-from langchain.chains import (
-    ConversationalRetrievalChain,
-    GraphQAChain,
-    GraphCypherQAChain,
-)
+from langchain.chains import GraphQAChain
 from langchain.graphs.networkx_graph import NetworkxEntityGraph, KnowledgeTriple
 from langchain.graphs import NetworkxEntityGraph
-
-# import openai
 import tiktoken
-
-# import nltk
-
 from langchain.chat_models import ChatOpenAI
-
-# from langchain.chat_models import ChatOpenAI
-# import pinecone
-
 import os
 
 load_dotenv()
-
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
 PINECONE_API_ENV = os.getenv("PINECONE_API_ENV")
@@ -55,17 +34,11 @@ def chunk_text_by_tokens(text, max_tokens=3000):
 
 with open("ALAllints2.txt") as f:
     all_text = f.read()
-
 openai_llm = OpenAI(temperature=0)
-
 index_creator = GraphIndexCreator(llm=OpenAI(temperature=0))
-
-
 # Split the text into chunks
 chunks = chunk_text_by_tokens(all_text)
-
 # Initialize an empty graph
-
 G = nx.DiGraph()
 
 # Process each chunk
